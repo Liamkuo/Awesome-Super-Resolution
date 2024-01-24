@@ -35,5 +35,5 @@ More years papers, plase check Quick navigation
 |Noise-free Optimization in Early Training Steps for Image Super-Resolution | ECO | [AAAI24](https://arxiv.org/pdf/2312.17526.pdf) | [code](https://github.com/2minkyulee/ECO) |SISR, train opt |
 |Transforming Image Super-Resolution:A ConvFormer-based Efficient Approach |CFSR | [arxiv](https://arxiv.org/pdf/2401.05633.pdf) | [code](https://github.com/Aitical/CFSR) | |
 |Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention |MIA-VSR | [arxiv](https://arxiv.org/pdf/2401.06312.pdf) | [code](https://github.com/LabShuHangGU/MIA-VSR) | |
-
-
+|AND: Adversarial Neural Degradation for Learning Blind Image Super-Resolution| Adversarial Neural Degradation| [NeurIPS23](https://openreview.net/pdf?id=s8QsYV1VZ2) | |  Blind Image Super-Resolution|
+|Self-Supervised Face Image Restoration with a One-Shot Reference| SAIR| [ICASSP24](https://arxiv.org/abs/2203.03005) | [code](https://github.com/Liamkuo/SAIR) | Super-Resolution, Face Restoration|
